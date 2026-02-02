@@ -1,0 +1,5 @@
+{
+  "name": "BYOK AI Toolkit",
+  "description": "A privacy-first suite of 13 AI-powered utilities including code fixing, email polishing, SEO optimization, and more. Bring your own Gemini API key for complete control.",
+  "requestFramePermissions": []
+}
