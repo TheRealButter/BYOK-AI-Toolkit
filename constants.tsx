@@ -47,7 +47,7 @@ export const TOOLS: ToolConfig[] = [
     category: 'productivity'
   },
   {
-    id: 'summarizer',
+    id: 'workflow-generator',
     name: 'Workflow Generator',
     description: 'Generate automation scripts for Zapier, Python, or shell workflows.',
     icon: '⚙️',
@@ -58,7 +58,7 @@ export const TOOLS: ToolConfig[] = [
     category: 'coding'
   },
   {
-    id: 'keyword-surgeon',
+    id: 'pdf-summarizer',
     name: 'PDF Summarizer',
     description: 'Extract executive summaries, key points, and critical insights from document text.',
     icon: '📄',
@@ -69,7 +69,7 @@ export const TOOLS: ToolConfig[] = [
     category: 'productivity'
   },
   {
-    id: 'seo-optimizer',
+    id: 'image-alt-text',
     name: 'Image Alt Text',
     description: 'Generate SEO-friendly short, medium, and detailed image descriptions.',
     icon: '🖼️',
@@ -91,7 +91,7 @@ export const TOOLS: ToolConfig[] = [
     category: 'learning'
   },
   {
-    id: 'tone-shifter',
+    id: 'audio-transcriber',
     name: 'Audio Transcriber',
     description: 'Convert speech notes to clean, formatted text with paragraph breaks.',
     icon: '🎤',
@@ -102,7 +102,7 @@ export const TOOLS: ToolConfig[] = [
     category: 'productivity'
   },
   {
-    id: 'social-viralizer',
+    id: 'video-summarizer',
     name: 'Video Summarizer',
     description: 'Extract key moments, timestamps, and actionable takeaways from video scripts.',
     icon: '🎥',
@@ -124,7 +124,7 @@ export const TOOLS: ToolConfig[] = [
     category: 'learning'
   },
   {
-    id: 'grammar-guardian',
+    id: 'social-media-master',
     name: 'Social Media Master',
     description: 'Optimize posts for engagement across Twitter, LinkedIn, and Instagram.',
     icon: '📱',
@@ -135,7 +135,7 @@ export const TOOLS: ToolConfig[] = [
     category: 'writing'
   },
   {
-    id: 'keyword-surgeon',
+    id: 'seo-optimizer',
     name: 'SEO Optimizer',
     description: 'Boost search rankings with meta titles, descriptions, and keyword strategies.',
     icon: '🎯',

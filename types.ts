@@ -1,18 +1,18 @@
 
 export type ToolId = 
-  | 'summarizer' 
   | 'code-fixer' 
   | 'email-polisher' 
-  | 'seo-optimizer' 
+  | 'workflow-generator' 
+  | 'pdf-summarizer' 
+  | 'image-alt-text' 
   | 'meeting-recap' 
   | 'translator' 
   | 'idea-engine' 
-  | 'social-viralizer' 
-  | 'grammar-guardian' 
-  | 'tone-shifter' 
-  | 'keyword-surgeon' 
+  | 'video-summarizer' 
+  | 'social-media-master' 
+  | 'audio-transcriber' 
   | 'study-buddy' 
-  | 'voiceover';
+  | 'seo-optimizer';
 
 export interface ToolConfig {
   id: ToolId;
